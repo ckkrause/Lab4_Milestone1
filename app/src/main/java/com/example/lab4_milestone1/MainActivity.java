@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void mockFileDownloader() {
+
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
